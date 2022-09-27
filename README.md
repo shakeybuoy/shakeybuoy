@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![@shakeybuoy's Holopin board](https://holopin.io/api/user/board?user=shakeybuoy)](https://holopin.io/@shakeybuoy)
+### Hey there 👋
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning App Development
