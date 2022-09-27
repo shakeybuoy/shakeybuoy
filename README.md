@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeybuoy)](https://github.com/shakeybuoy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeybuoy&count_private=true)](https://github.com/shakeybuoy/github-readme-stats)
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning App Development
