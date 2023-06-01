@@ -8,4 +8,8 @@
 
 ![WebWebdevelopperGIF](https://user-images.githubusercontent.com/62803883/230148314-7320742d-cb60-4076-a355-e3d249357395.gif)
 
+
+[![Shakey's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakeybuoy&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeybuoy&theme=radical&layout=compact&hide=java,jupyter%20notebook&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 ## How to reach me: abhi.sharma.0873@gmail.com
